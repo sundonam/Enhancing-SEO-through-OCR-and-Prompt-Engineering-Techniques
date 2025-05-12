@@ -6,8 +6,8 @@
 
 ## 저장소 구성
 
-- `prompts/` : 논문에 사용된 프롬프트 원문
-- `appendix/` : 프롬프트 설계 근거 및 재현 가이드
+- `prompt_ko.md` : 논문에 사용된 프롬프트 원문
+- `prompt_design_rationale.md` : 프롬프트 설계 근거 및 재현 가이드
 
 ## 실행 환경
 
